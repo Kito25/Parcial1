@@ -1,0 +1,42 @@
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+    color: #000000;
+  }
+  
+  label {
+    font-size: 20px;
+    color: #000000;
+  }
+  
+  select {
+    padding: 8px;
+    font-size: 14px;
+    border: 1px solid #ff7300;
+    border-radius: 50px;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #ceadad;
+    border: 1px solid #a77145;
+    border-radius: 4px;
+    font-size: 20px;
+    color: #000000;
+  }
+  
+  li:last-child {
+    margin-bottom: 0;
+  }
+  
+  li:hover {
+    background-color: #ff9797;
+  }
+  
